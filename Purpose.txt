@@ -1,0 +1,17 @@
+# Purpose
+- To help other cyber-inclined members reach their full potential
+- Hopefully these materials help you, while at the same time being fun to read/code
+
+## Background
+- CISSP (NSA Cert 2002), CEH (NSA Letter), Masters EC-Council (NSA Approved), SEC+, CASP, and much more
+
+## Where Do You Go When You Have Mastered The IT Field
+- Give back!!!
+- Right now I'm working on updating software development and cybersecurity material so others may accomplish these goals too
+  1. LeetCode Algos Content (Finished 2021)
+  2. Cryptohack (Finished 2022)
+  3. Introduction To Scientific Computing (Finished 2022)
+  4. Basic Number Theory (Finished 2022)
+  5. Design Patterns - Python (Finished 2023)
+  6. Rust Interfaces (2024)
+- In 2024, I hope to update these to a professional quality. We are one team, one fight: industry, military, government. Let's help each other reach our goals!
