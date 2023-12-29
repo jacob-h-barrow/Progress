@@ -1,3 +1,10 @@
-1. Python Design Book
-  - Code is almost done (18/22), but the writing is sparse
-2. 
+1. LeetCode Algos Content (Finished 2021)
+  - Python is done, need to go back through for Rust
+2. Cryptohack (Finished 2022)
+  - Python is done, need to go back through for Rust
+3. Basic Number Theory (Finished 2022)
+  - Python is done, need to go back through for Rust
+4. Design Patterns - Python (Finished 2023)
+  - 18/22 patterns done, want to focus significantly on the writing
+5. Rust Interfaces (2024)
+  - Yet to start, just read the language over Christmas... need to implement some basics then go into a deep dive
