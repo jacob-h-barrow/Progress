@@ -1,0 +1,9 @@
+# Getting The Next Generation Involved
+- I built a few applications that have yet to be hosted (not pointing fingers!!!)
+- These apps will help kids grow up to take our places, and do a whole lot better!
+1. Competitive Programming Site
+2. Pentesting Site
+3. DS Program
+4. Interfaces Program
+5. New IDE
+6. Hands-On OS
